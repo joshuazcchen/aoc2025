@@ -35,4 +35,4 @@ _____
 - It was a simple question, but checking the edges and corners made the actual code significantly more cumbersome.
 - For part 2, I just refactored my checks into a separate function returning the number of changed elements, and repeated checks until it returned 0 changes.
 
-[^1] this does not mean it will be completed quickly upon release, it just means that I'm trying to get the solutions done as quickly as possible after I start doing the question.
+[^1]: this does not mean it will be completed quickly upon release, it just means that I'm trying to get the solutions done as quickly as possible after I start doing the question.
