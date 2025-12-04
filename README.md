@@ -1,4 +1,7 @@
-doing advent of code 2025 in c++ w/ brief commentary on each day.
+doing advent of code 2025 in c++ w/ brief commentary on each day. none of this will be optimized or good code; im attempting for overall completion speed & valid solutions as opposed to time/space complexity.
+big goal this year is to see how far i can make it, especially with a 12 day AOC as opposed to the standard 25.
+
+![](https://github.com/joshuazcchen/aoc2025/blob/master/aocicon.png)
 
 **Day 1:**
 ______
