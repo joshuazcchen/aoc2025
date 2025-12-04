@@ -1,4 +1,5 @@
-doing advent of code 2025 in c++ w/ brief commentary on each day. none of this will be optimized or good code; im attempting for overall completion speed & valid solutions as opposed to time/space complexity.\n
+doing advent of code 2025 in c++ w/ brief commentary on each day. none of this will be optimized or good code; im attempting for overall completion speed[^1] & valid solutions as opposed to time/space complexity.
+
 big goal this year is to see how far i can make it, especially with a 12 day AOC as opposed to the standard 25.
 
 ![](https://github.com/joshuazcchen/aoc2025/blob/master/aocicon.png)
@@ -33,3 +34,5 @@ _____
 - I think today's made me realize how much I both love and hate grid based questions.
 - It was a simple question, but checking the edges and corners made the actual code significantly more cumbersome.
 - For part 2, I just refactored my checks into a separate function returning the number of changed elements, and repeated checks until it returned 0 changes.
+
+[^1] this does not mean it will be completed quickly upon release, it just means that I'm trying to get the solutions done as quickly as possible after I start doing the question.
