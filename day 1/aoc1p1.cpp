@@ -17,18 +17,13 @@ int main() {
             } else {
                 location += std::stoi(line);
             }
-            std::cout<<location<<"\n";
             
             while (location >= 100 || location < 0) {
                 if (location >= 100) {
-                    std::cout<<location<<" ";
                     location = location % 100;
-                    std::cout<<location<<"\n";
                 } else if (location < 0) {
-                    std::cout<<location<<" ";
                     location = location % 100;
                     location = 100 + location;
-                    std::cout<<location<<"\n";
                 } 
             }
 
@@ -36,6 +31,6 @@ int main() {
                 count++;
             }
         }
-        std::cout<<count; // -2 = 98 ; -3 = 97 -5 = 95; -8 = 92;
+        std::cout<<count;
     }
 }

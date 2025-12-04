@@ -21,7 +21,6 @@ int main() {
             }
         }
 
-        std::cout<<std::stoll(hl)<<std::endl;
         result += std::stoll(hl);
     }
 

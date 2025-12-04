@@ -25,7 +25,6 @@ int main() { // precon: there's only ints
                 break;
             }
         }
-        std::cout<<std::stoi(hi + lo)<<std::endl;
         result += std::stoi(hi + lo);
     }
 

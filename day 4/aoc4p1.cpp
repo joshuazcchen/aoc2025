@@ -74,7 +74,6 @@ int main() {
                 }
                 if (ct < 4) {
                     pt++;
-                    std::cout<<ct<<" position: "<<i<<","<<j<<std::endl;
                 }
             }
         }
