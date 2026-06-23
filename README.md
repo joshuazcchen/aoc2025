@@ -38,5 +38,6 @@ _____
 **Day 5 & Beyond:**
 _____
 I got very busy and distracted around this point and completely forgot about AOC for over a month and a half, I'll resume AOC once midterms and such are over.
+-> This did not end up happening, I ended up forgetting about AOC for a long time, I completed Day 5 at some point during this long hiatus and committed it, but since then, I haven't looked at any of the other days. I also realize now I accidentally wrote Day 5 in C? Not sure what I was thinking there. But I doubt I'll return to this since I have many other personal projects and we're now officially closer to AOC2026 than AOC2025.
 
 [^1]: this does not mean it will be completed quickly upon release, it just means that I'm trying to get the solutions done as quickly as possible after I start doing the question.
